@@ -1,4 +1,4 @@
-### Hello, Here is What i am Working on! 👋
+### Hi, I am Bawa Awumbila 👨🏿‍💻
 
 - 🔭 I’m currently working on WAVe Music App
 - 🌱 I’m currently learning React
