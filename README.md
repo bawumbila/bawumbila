@@ -7,5 +7,4 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: www.linkedin.com/in/awumbila
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like anything that has to do with Cars.
--->
+- ⚡ Fun fact: I like anything that has to do with Cars
