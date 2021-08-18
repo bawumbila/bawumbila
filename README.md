@@ -1,7 +1,7 @@
-### Hi, I am Bawa Awumbila 👨🏿‍💻
+### Hi, I am Bawa Awumbila 👨🏿
 
 
-About me: 
+## About me: 
 
 Software Engineer with a background in GIS and Operations management, constantly seeking to learn.
 Passionate about software engineering and seeking to join a team and organization that will enable me to contribute
