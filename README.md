@@ -1,4 +1,4 @@
-## 👋🏿 Hi, I am Bawa Awumbila 👨🏿
+## 👋🏿 Hi, I am Bawa Awumbila
 
 
 ### About me: 
