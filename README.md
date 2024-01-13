@@ -9,7 +9,7 @@ while expanding technical skills.continually seeking opportunities to become pro
 
 
 
-- 🔭 I’m currently working on my WAVe Music App
+- 🔭 I’m currently working on my React Project
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with Python
